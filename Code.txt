@@ -3,4 +3,4 @@
 Master
 b1
 
-MERGE NOW B1 to MASTER
+Merge 1.
