@@ -3,4 +3,4 @@
 Master
 b1
 
-Merge - no commit only add. MERGE TO MASTER.
+b1 TO MASTER.
