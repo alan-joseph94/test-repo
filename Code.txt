@@ -3,4 +3,4 @@
 Master
 b1
 
-b1 TO MASTER.
+MASTER 2 B2
