@@ -3,4 +3,4 @@
 Master
 b1
 
-change master. merge 2 b2
+change MAS. Merge to B2
